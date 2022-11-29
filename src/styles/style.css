@@ -1,0 +1,19 @@
+.nav-buttons{
+    margin: 0 10px;
+    text-decoration: none;
+    border: 2px solid #69a6ce;
+    color: #69a6ce;
+    font-weight: 500;
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+  .nav-buttons:hover{
+    background: #69a6ce;
+    color: #fff;
+  }
